@@ -1,16 +1,10 @@
 # InteriorThings-e-commerce-project
 Complete shopping App
 
-
 <p>This is an online furniture shopping web page </p
 
 <ul>
-  <li>This project is single page front end application developed using HTML, 
-CSS, JS and React.js  </li>
-  <li>To make shopping easier, sorting, filter products by company, category, 
-color etc. are accomplished.   </li>
-  <li>Axios are used to fetch all the products from API.  </li>
-  <li> Made use of styled components to develop e-commerce website with 
-attractive design</li>
- </ul>
- 
+  <li>This project is single page, state management, well-designed and high quality application, developed using technologies like HTML, CSS, Styled components,  JS and React.js  </li>
+  <li>Search site, categorize products logically .. etc are implemented to deliver user a smooth navigation </li>
+   <li> Implementation of Reactjs in-built and popular third-party frameworks such react-router-dom, Axios </li>
+  </ul>
